@@ -4,7 +4,7 @@ var upper = Math.ceil(value);
 console.log(upper);
 
 
-// dawn lower count
+// lower value count
 var lower = Math.floor(value);
 console.log(lower);
 
